@@ -20,4 +20,17 @@ Esse código consiste em um jogo da velha feito em Java, sendo possível que o u
   <img align = "center" alt = "nome2" src = "https://user-images.githubusercontent.com/114308727/209702436-d042afe9-2c48-462c-894d-b520a2173260.png">
 </div>
 
+<br>
+
+- Depois cada usuário deverá escolher a linha e a coluna em que deseja jogar, sendo o primeiro jogador representado pelo "X" e o segundo pela "O"
+
+<div style = "display: inline_block">
+  <img align = "center" width = "300px" src = "https://user-images.githubusercontent.com/114308727/209706942-605b6f68-2831-4f37-b50e-f8602fe4261c.png">
+  <img align = "center" width = "300px" src = "https://user-images.githubusercontent.com/114308727/209707753-89a2253e-f074-4c45-8b31-a812521deec8.png">
+</div>
+
+<br>
+
+- O jogo termina quando um dos jogadores consegue completar uma linha, ou uma coluna, ou uma diagonal, ou quando ocorre um empate
+<img src = "https://user-images.githubusercontent.com/114308727/209708599-c09fcb37-a281-471a-b980-6c3c45903fd5.png">
 
